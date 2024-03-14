@@ -1,0 +1,21 @@
+{
+  "name": "pinkururu-vs-code",
+  "displayName": "pinkururu-vs-code",
+  "description": "A pink and green vscode theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pinkururu Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pinkururu-dark.json"
+      }
+    ]
+  }
+}
