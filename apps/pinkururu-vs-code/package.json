@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Pinkururu Theme",
+        "label": "Pinkururu Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/pinkururu-dark.json"
+      },
+      {
+        "label": "Pinkururu Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/pinkururu-light.json"
       }
     ]
   }
